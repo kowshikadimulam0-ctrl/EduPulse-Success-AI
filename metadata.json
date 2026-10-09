@@ -1,0 +1,6 @@
+{
+  "name": "AI Student Analytics & Success Platform",
+  "description": "Evidence-based, supportive student analytics and success platform with cohort tracking, early alerts, fairness auditing, and ethical AI interventions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
